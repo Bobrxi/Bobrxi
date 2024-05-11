@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bobrxi
-- 👀 I’m interested in Making a program that uses http
+- 👀 I’m interested in Learning python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord - glebtop
