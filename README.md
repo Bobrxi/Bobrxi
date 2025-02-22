@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord - glebtop
+- 📫 How to reach me discord - rat_214
 - 😄 Pronouns: ...
 - ⚡ Fun fact: idk
 
